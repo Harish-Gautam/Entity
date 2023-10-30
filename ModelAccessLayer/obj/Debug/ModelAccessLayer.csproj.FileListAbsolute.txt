@@ -1,0 +1,6 @@
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\bin\Debug\ModelAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\bin\Debug\ModelAccessLayer.pdb
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\obj\Debug\ModelAccessLayer.csproj.AssemblyReference.cache
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\obj\Debug\ModelAccessLayer.csproj.CoreCompileInputs.cache
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\obj\Debug\ModelAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\ModelAccessLayer\obj\Debug\ModelAccessLayer.pdb
