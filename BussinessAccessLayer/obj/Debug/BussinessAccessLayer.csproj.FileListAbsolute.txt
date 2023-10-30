@@ -1,0 +1,17 @@
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\BussinessAccessLayer.dll.config
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\BussinessAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\BussinessAccessLayer.pdb
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\EntityFramework.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\EntityFramework.xml
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csproj.AssemblyReference.cache
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.csproj.CopyComplete
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\obj\Debug\BussinessAccessLayer.pdb
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\ModelAccessLayer.dll
+D:\C#DotNetFremork\EntityFremwork\EntityMvcCrud\BussinessAccessLayer\bin\Debug\ModelAccessLayer.pdb
